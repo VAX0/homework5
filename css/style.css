@@ -1,0 +1,39 @@
+/* header */
+header {
+    background-color: #2A9D8F;
+    Width: 1440px;
+    padding: 38px 130px;
+    margin: 0 auto
+}
+
+.headericon {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 849px;
+    width: 46px;
+    height: 46px;
+}
+
+.headerNav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.headerNav ul li {
+    display: inline-block;
+}
+
+.headerNav ul li a {
+    color: #FFF;
+
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    /* 150% */
+    letter-spacing: 0.1px;
+}
+
+.post {
+    margin-inline: 51px;
+}
